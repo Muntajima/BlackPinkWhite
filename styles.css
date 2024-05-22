@@ -1,0 +1,73 @@
+
+.head li{
+    display: inline-block;
+}
+.head li a{
+    display: block;
+    padding: 10px;
+    
+    height: 30px;
+    text-decoration: none;
+    color: white;
+}
+div.head{
+    width: 85%;
+}
+div.mycontainer{
+    overflow:auto;
+    color: white;
+    height: 80%;
+}
+
+#left{
+    background-color: black;
+    width: 60%;
+    float: left;
+}
+#second{
+    background-color: black;
+    width: 25%;
+    float: left;
+}
+
+.search{
+    border: 1px solid #faf8f8;
+}
+ 
+.image{
+    background-color: white;
+    border: 1px solid white;
+    margin-left: 10px;
+
+}
+h1,h2,h3,h4,h5,h6{
+    color: rgb(212, 45, 123);
+  }
+  
+  table tr td {
+    color: rgb(71, 67, 63);
+    background: rgb(240, 239, 226);
+    border-top: 1px solid rgb(255, 255, 255);
+
+}
+table tr th {
+    color: rgb(227, 221, 215);
+    background: rgb(79, 78, 73);
+    border-top: 1px solid rgb(255, 255, 255);
+}
+#left span{
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+
+
+#left input{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 230px;
+}
+
+#left button{
+    margin-left: 350px;
+    margin-top: 20px;
+}
